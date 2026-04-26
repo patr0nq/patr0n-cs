@@ -13,6 +13,25 @@
             "Movie"
         ],
         "version": 1,
+        "internalName": "SSportPlus",
+        "description": "666FilmIzle - T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 Film izle.",
+        "url": "https://raw.githubusercontent.com/patr0nq/Kekik-cloudstream/builds/SSportPlus.cs3",
+        "name": "SSportPlus"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/patr0nq/Kekik-cloudstream",
+        "fileSize": 11876,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "patr0n"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
         "internalName": "AltiYuzAltmisAltiFilmIzle",
         "description": "666FilmIzle - T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 Film izle.",
         "url": "https://raw.githubusercontent.com/patr0nq/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
