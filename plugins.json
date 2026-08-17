@@ -328,7 +328,7 @@
         "version": 51,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/patr0nq/Kekik-cloudstream/builds/FilmMakinesi.cs3",
+        "url": "https://raw.githubusercontent.com/patr0nq/patr0n-cs/builds/FilmMakinesi.cs3",
         "name": "FilmMakinesi"
     },
     {
@@ -448,7 +448,7 @@
         "version": 46,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
-        "url": "https://raw.githubusercontent.com/patr0nq/Kekik-cloudstream/builds/JetFilmizle.cs3",
+        "url": "https://raw.githubusercontent.com/patr0nq/patr0n-cs/builds/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
     {
